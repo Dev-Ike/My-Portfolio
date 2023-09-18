@@ -1,4 +1,4 @@
 # MyPortfolio
 
-#### This is my Portfolio and my first project in my GitHub repository
-> It is a project that talks about my web development skills and work experiences.
+### This is my Portfolio and my first repository on Github
+> It is a project where I share my web development skills and work experiences.
