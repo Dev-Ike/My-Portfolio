@@ -21,8 +21,6 @@
   
   html {
     box-sizing: border-box;
-  
-    /* Set font size for easy rem calculations*/
     font-size: 62.5%;
     scroll-behavior: smooth;
   }
